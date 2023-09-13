@@ -12,6 +12,7 @@ public class JupiterApplication {
 
 	public static void test(){
 		System.out.println("test");
+		System.out.println("test");
 	}
 
 }

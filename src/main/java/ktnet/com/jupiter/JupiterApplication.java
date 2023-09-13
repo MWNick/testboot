@@ -10,4 +10,8 @@ public class JupiterApplication {
 		SpringApplication.run(JupiterApplication.class, args);
 	}
 
+	public static void test(){
+		System.out.println("test");
+	}
+
 }

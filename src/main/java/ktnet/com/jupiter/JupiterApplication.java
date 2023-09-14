@@ -11,7 +11,7 @@ public class JupiterApplication {
 	}
 
 	public static void test(){
-		System.out.println("testt");
+		System.out.println("testtt");
 	}
 
 }
